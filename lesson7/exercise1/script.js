@@ -26,6 +26,6 @@
 // const updated = browserType.replace('moz','van');
 // console.log(updated);      // "vanilla"
 // console.log(browserType);  // "mozilla"
-let browserType = 'mozilla';
-browserType = browserType.replace('moz','van');
-console.log(browserType);  // "vanilla"
+// let browserType = 'mozilla';
+// browserType = browserType.replace('moz','van');
+// console.log(browserType);  // "vanilla"
