@@ -1,0 +1,10 @@
+h2{
+    color: teal;
+}
+
+input, button{
+    border: 2px solid teal;
+    color:teal;
+    font-weight: bold;
+    padding:0.5rem;
+}
