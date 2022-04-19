@@ -1,0 +1,16 @@
+body{
+    padding:1rem;
+}
+
+img{
+    width:50%;
+    border:1px solid black;
+}
+
+p{
+    background-image:url("images/image.jpg");
+}
+
+/* background: url("fallback.png") no-repeat center;
+background-image: url("image.svg");
+background-size: contain; */
