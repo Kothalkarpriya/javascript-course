@@ -1,0 +1,45 @@
+h2 {
+    font-size: 2em;
+    color: #000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.small {
+    font-size: 1em;
+}
+
+.bright {
+    color: rebeccapurple;
+}
+
+/* blockquote {
+    background-color: red;
+    border: 2px solid green;
+}
+
+.fix-this {
+    all: unset;
+} */
+
+/* body {
+    color: green;
+}
+.my-class-1 a {
+    color: inherit;
+}
+.my-class-2 a {
+    color: initial;
+}
+.my-class-3 a {
+    color: unset;
+} */
+
+/* .main {
+    color: red;
+    border: 2px solid #ccc;
+    padding: 1rem;
+}
+.special{
+    color:blueviolet;
+    font-weight: bold;
+} */
