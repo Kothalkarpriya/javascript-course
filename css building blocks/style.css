@@ -1,4 +1,22 @@
-#winning {
+span {
+    background-color: yellow;
+}
+
+strong {
+    color: rebeccapurple;
+}
+
+em {
+    color: rebeccapurple;
+}
+
+article > p{}
+/* 
+h1,..special {
+    color: blue;
+} */
+
+/* #winning {
     background-color: red;
     border: 1px solid black;
 }
@@ -12,15 +30,7 @@ p {
     background-color: blue;
     color: white;
     padding: 5px;
-}
-
-
-
-
-
-
-
-
+} */
 
 /* specificity: 0101
 #outer a {
