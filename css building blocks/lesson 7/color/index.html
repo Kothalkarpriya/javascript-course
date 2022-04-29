@@ -7,37 +7,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        .wrapper{
-            padding:1rem;
-            border:1px solid black;
-            margin:1rem;
-        }
-        .box{
-            border-radius: 0.5rem;
-            padding:0.5rem;
-            margin:1rem;
-        }
-        .one {
-            background-color: antiquewhite;
+        /* .box {
+            width: 400px;
+            padding: 1em;
+            border-radius: .5em;
+            border: 5px solid rebeccapurple;
+            background-color: lightblue;
         }
 
-        .two {
-            background-color: blueviolet;
+        .box::after {
+            content: "This is a string. I know because it is quoted in the CSS."
+        } */
+        .wrapper {
+            width: 300px;
+            padding: 1em;
+            border-radius: .5em;
+            border: 5px solid rebeccapurple;
+            background-color: lightblue;
         }
 
-        .three {
-            background-color: greenyellow;
+        .boX {
+            width: calc(20% + 100px);
         }
     </style>
 </head>
 
 <body>
     <div class="wrapper">
-        <div class="box one">antiquewhite</div>
-        <div class="box two">blueviolet</div>
-        <div class="box three">greenyellow</div>
+        <div class="box">My width is calculated</div>
     </div>
-
 </body>
 
 </html>
