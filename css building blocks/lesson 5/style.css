@@ -1,6 +1,4 @@
-.box{
-    border: 1px solid #333333;
-    width: 200px;
-    height:100px;
-    overflow: auto;
+h1 {
+    color: black;
+    background-color: rgb(197, 93, 161);
 }
